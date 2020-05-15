@@ -1,0 +1,147 @@
+
+body{
+	 margin: 0;
+	 text-align: center;
+	 font-family: 'Merriweather', serif;
+	 color: #40514e;
+     
+	 }
+h1{
+	font-size: 562.5%;
+	margin: 50px auto 0 auto;
+	font-family: 'Sacramento', cursive;
+    color: #66bfbf;
+
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 200%;
+    color: #66bfbf;
+    padding-bottom: 10px;
+
+}
+ .intro{
+	font-weight: normal;
+}
+h3{
+   font-family: 'Montserrat', sans-serif;
+   color: #11999e;
+
+}
+
+
+.last-line{
+	margin: 50px auto 60px;
+	width: 50%;
+}
+
+
+.cp{
+	color: #eaf6f6;
+	padding: 20px 0;
+	font-size: 14px;
+}
+
+hr{     border-style: none;
+        border-top-style: dotted;
+        border-color: grey;
+        border-width: 5px;
+        width: 5%;
+        margin: 100px auto;
+
+}
+
+.top{
+    background-color: #eaf6f6;
+    position: relative;
+    padding-top: 100px;
+    width: 100%;
+    
+    }
+
+.middle-container{
+	margin: 50px 0;
+}
+
+.bottom-container{
+	background-color: #66bfbf;
+	padding: 50px 0 20px;
+	
+}
+
+
+.top-cloud{
+	position: absolute;
+	top:50px;
+	right: 300px;
+	
+}
+
+
+.bottom-cloud{
+	position: absolute;
+	left: 300px;
+	bottom: 300px;
+
+}
+
+.profile{
+	width: 50%;
+	margin:50px auto 50px auto;
+	border-radius: 100%;
+
+}
+
+.skill-row{
+	width: 50%;
+	margin:100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+
+}
+
+.skills-image1{
+	width: 30%;
+	float: left;
+	margin-right: 30px;
+}
+
+.skills-image2{
+	width: 30%;
+	float: right;
+	margin-left: 30px;
+}
+
+.footer-link{
+	color: #40514e;	
+text-decoration: none;
+padding: 10px 20px;
+font-family: 'Montserrat', sans-serif;
+}
+.footer-link:hover{
+color: white;
+}
+
+
+.btn {
+	   height: 30px;
+       width: 50%;
+       background-color: #106AF7;
+       line-height: 6;
+       padding: 25px;
+       font-size: 20px;
+       font-family: 'Montserrat', sans-serif;
+       color: #ffffff;
+       text-decoration:none;
+       
+       border-color: red;
+       border-radius: 40px;
+  
+}
+
+.btn:hover {
+              background-color: #3d3e3e;
+              color: black;
+              
+              }
